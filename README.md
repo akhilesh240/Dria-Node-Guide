@@ -48,8 +48,7 @@ sudo dkn-compute-launcher start
 
 Succesfull logs Should Looks Like-👇
 
-![Uploadin![Uploading Screenshot (241).png…]()
-g Screenshot (241).png…]()
+![Uploadin![Uploading Screenshot (241).(https://github.com/user-attachments/assets/7383d7ec-8d27-4707-a3ac-c33dcc1b9ea3)
 
 
 You Can check Your Node status from here-👇 (Enter Your Wallet Address)
