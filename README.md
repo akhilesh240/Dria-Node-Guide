@@ -34,7 +34,8 @@ Use Up - down Keys to select "Enter referral code to be referred" and Enter The 
  U can Use Other Users Refer Code
 ```
 
-Successfull Output Should Looks Like- ![image](https://github.com/user-attachments/assets/7d75f1c7-178d-4dc0-bc9e-a54f8657fbb9) Now u can Go-Back and start ur node!
+Successfull Output Should Looks Like- ![image](https:/![Screenshot (241)](https://github.com/user-attachments/assets/1fc9ae46-c792-4bf3-8a51-1bf19b0a3960)
+/github.com/user-attachments/assets/7d75f1c7-178d-4dc0-bc9e-a54f8657fbb9) Now u can Go-Back and start ur node!
 
 
 # Start Your Node
